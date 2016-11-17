@@ -1,0 +1,17 @@
+.kotak{
+	border:1px solid ;
+	border-radius: 5px;
+	width :250px; 
+	height:400px;
+	margin:10px;
+	padding:20px;
+	font-size:12px;
+	font-family: "verdana", sans-serif; 
+	float: left;
+}
+.isi{
+	text-align:justify-all;
+}
+.clear{
+	clear:both;
+}
