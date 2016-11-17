@@ -71,4 +71,11 @@
 </form>					
 <?php } ?>
 </body>
+<div class="clear"></div>
+<footer>
+	<hr>
+	<center>
+	<label>&copy Rohmat Trimanto</label>
+	</center>
+</footer>
 </html>
